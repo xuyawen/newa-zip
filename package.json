@@ -26,6 +26,6 @@
     "ora": "^5.4.1"
   },
   "devDependencies": {
-    "husky": "^4.3.4"
+    "husky": "^4.3.0"
   }
 }
