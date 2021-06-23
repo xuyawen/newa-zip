@@ -6,9 +6,9 @@
   "bin": {
     "zip": "./bin/index.js"
   },
-  "husky": {
+  "precommit": {
     "hooks": {
-      "commit-msg": "node scripts/verify-commit.js"
+      "precommit": "node scripts/verify-commit.js"
     }
   },
   "repository": {
