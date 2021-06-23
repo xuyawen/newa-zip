@@ -16,9 +16,7 @@
     "url": "git+https://github.com/xuyawen/newa-zip.git"
   },
   "homepage": "https://github.com/xuyawen/newa-zip#readme",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "xuyawen",
   "license": "ISC",
