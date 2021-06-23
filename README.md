@@ -1,5 +1,5 @@
 # compress png/jpg
 
 ```bash
-/yourdir>newa-zip zip
+/yourdir> newa-zip zip
 ```
